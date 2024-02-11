@@ -1,0 +1,8 @@
+pickleshare
+scikit-learn
+gunicorn
+pandas
+flask
+pytest
+app
+math
